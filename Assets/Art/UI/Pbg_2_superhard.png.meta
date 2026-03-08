@@ -173,7 +173,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Pbg_2_superhard_0: -1330056156017917824
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

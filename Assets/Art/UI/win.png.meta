@@ -1,0 +1,1274 @@
+fileFormatVersion: 2
+guid: 7d8499f2266872941b6856d1f7ba721c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2142353539318865874
+    second: win-lose (1)_0
+  - first:
+      213: -6803768090551766048
+    second: win-lose (1)_1
+  - first:
+      213: -5848603508645300212
+    second: win-lose (1)_2
+  - first:
+      213: 7371934600804140739
+    second: win-lose (1)_3
+  - first:
+      213: -3366431878891401943
+    second: win-lose (1)_4
+  - first:
+      213: -7409986541491304515
+    second: win-lose (1)_5
+  - first:
+      213: 838329542648331901
+    second: win-lose (1)_6
+  - first:
+      213: -6805397993499532092
+    second: win-lose (1)_7
+  - first:
+      213: -5987782305412959965
+    second: win-lose (1)_8
+  - first:
+      213: -5244707361857239824
+    second: win-lose (1)_9
+  - first:
+      213: 3579038539917872452
+    second: win-lose (1)_10
+  - first:
+      213: 7443685190732039574
+    second: win-lose (1)_11
+  - first:
+      213: 8082466991750462126
+    second: win-lose (1)_12
+  - first:
+      213: -7629930850495966142
+    second: win-lose (1)_13
+  - first:
+      213: -4121241208402791416
+    second: win-lose (1)_14
+  - first:
+      213: -5761027513260385184
+    second: win-lose (1)_15
+  - first:
+      213: -3076831879070118606
+    second: win-lose (1)_16
+  - first:
+      213: -2861312313236705729
+    second: win-lose (1)_17
+  - first:
+      213: 2842899898815649932
+    second: win-lose (1)_18
+  - first:
+      213: -5292951391914208611
+    second: win-lose (1)_19
+  - first:
+      213: 6675111876430391240
+    second: win-lose (1)_20
+  - first:
+      213: 2203455810756127722
+    second: win-lose (1)_21
+  - first:
+      213: 3551630062095500651
+    second: win-lose (1)_22
+  - first:
+      213: 6555797653675740941
+    second: win-lose (1)_23
+  - first:
+      213: -3008696728160477153
+    second: win-lose (1)_24
+  - first:
+      213: -1744593315104836592
+    second: win-lose (1)_25
+  - first:
+      213: -6625278015341868904
+    second: win-lose (1)_26
+  - first:
+      213: 4339300500533964474
+    second: win-lose (1)_27
+  - first:
+      213: 7609182522802222282
+    second: win-lose (1)_28
+  - first:
+      213: 4901608918463890279
+    second: win-lose (1)_29
+  - first:
+      213: -6977039792799498153
+    second: win-lose (1)_30
+  - first:
+      213: 1735149356213593462
+    second: win-lose (1)_31
+  - first:
+      213: 2038737123313726514
+    second: win-lose (1)_32
+  - first:
+      213: -7103546705715123737
+    second: win-lose (1)_33
+  - first:
+      213: -4556950274113636165
+    second: win-lose (1)_34
+  - first:
+      213: 4776136468709211888
+    second: win-lose (1)_35
+  - first:
+      213: 3428969079158677488
+    second: win-lose (1)_36
+  - first:
+      213: 2296843802286114029
+    second: win-lose (1)_37
+  - first:
+      213: -5743737197845824227
+    second: win-lose (1)_38
+  - first:
+      213: 1888119169248801641
+    second: win-lose (1)_39
+  - first:
+      213: -1401605981628681220
+    second: win-lose (1)_40
+  - first:
+      213: -4844747002770417050
+    second: win-lose (1)_41
+  - first:
+      213: 7507689598737241978
+    second: win-lose (1)_42
+  - first:
+      213: 4435710091534124652
+    second: win-lose (1)_43
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: win-lose (1)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 571
+        width: 185
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2029918ec4d442e0800000000000000
+      internalID: -2142353539318865874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: win-lose (1)_1
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 748
+        width: 82
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3368438f82491a0800000000000000
+      internalID: -6803768090551766048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: win-lose (1)_2
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 936
+        width: 108
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c08f71b981695dea0800000000000000
+      internalID: -5848603508645300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: win-lose (1)_3
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 748
+        width: 254
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c68754167f5e4660800000000000000
+      internalID: 7371934600804140739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: win-lose (1)_4
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 906
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d8022da080841d0800000000000000
+      internalID: -3366431878891401943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: win-lose (1)_5
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 888
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db74cf310807a2990800000000000000
+      internalID: -7409986541491304515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: win-lose (1)_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 831
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ef442074852ab00800000000000000
+      internalID: 838329542648331901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: win-lose (1)_7
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 862
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4ed4ad49e5e81a0800000000000000
+      internalID: -6805397993499532092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: win-lose (1)_8
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 860
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321bd75c7bf17eca0800000000000000
+      internalID: -5987782305412959965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: win-lose (1)_9
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 750
+        width: 71
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f48f99217e0737b0800000000000000
+      internalID: -5244707361857239824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: win-lose (1)_10
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 841
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44dcc39e69c4ba130800000000000000
+      internalID: 3579038539917872452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: win-lose (1)_11
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 846
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6954b6d1e384d4760800000000000000
+      internalID: 7443685190732039574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: win-lose (1)_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 842
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa3b1008e0ba2070800000000000000
+      internalID: 8082466991750462126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: win-lose (1)_13
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 832
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244d46b015a0d1690800000000000000
+      internalID: -7629930850495966142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: win-lose (1)_14
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 830
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804337bc4f86ec6c0800000000000000
+      internalID: -4121241208402791416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: win-lose (1)_15
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 830
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06cdcdafff7bc00b0800000000000000
+      internalID: -5761027513260385184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: win-lose (1)_16
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 825
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d8d6e25b5ec45d0800000000000000
+      internalID: -3076831879070118606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: win-lose (1)_17
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 830
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e231a6c939a48d0800000000000000
+      internalID: -2861312313236705729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: win-lose (1)_18
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 822
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8896e84562047720800000000000000
+      internalID: 2842899898815649932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: win-lose (1)_19
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 786
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d925b8790c8ab86b0800000000000000
+      internalID: -5292951391914208611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: win-lose (1)_20
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 816
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c7ef96a2e2c2ac50800000000000000
+      internalID: 6675111876430391240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: win-lose (1)_21
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 815
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeba36ea26f349e10800000000000000
+      internalID: 2203455810756127722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: win-lose (1)_22
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 806
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b650dc069bce94130800000000000000
+      internalID: 3551630062095500651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: win-lose (1)_23
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 806
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f8eae5b3fdafa50800000000000000
+      internalID: 6555797653675740941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: win-lose (1)_24
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 750
+        width: 14
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f106d193446fe36d0800000000000000
+      internalID: -3008696728160477153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: win-lose (1)_25
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 806
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014b7a78f95f9c7e0800000000000000
+      internalID: -1744593315104836592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: win-lose (1)_26
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 798
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898c75d4fb84e04a0800000000000000
+      internalID: -6625278015341868904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: win-lose (1)_27
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 798
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe600c80da483c30800000000000000
+      internalID: 4339300500533964474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: win-lose (1)_28
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 790
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac4bcb6703f399960800000000000000
+      internalID: 7609182522802222282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: win-lose (1)_29
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 727
+        width: 40
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7634dec6753060440800000000000000
+      internalID: 4901608918463890279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: win-lose (1)_30
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 770
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 750cb6e36439c2f90800000000000000
+      internalID: -6977039792799498153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: win-lose (1)_31
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 716
+        width: 46
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675eb51752d741810800000000000000
+      internalID: 1735149356213593462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: win-lose (1)_32
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 736
+        width: 55
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2343489ac9c0b4c10800000000000000
+      internalID: 2038737123313726514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: win-lose (1)_33
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 777
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9247848e12b6d90800000000000000
+      internalID: -7103546705715123737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: win-lose (1)_34
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 783
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb876549ed572c0c0800000000000000
+      internalID: -4556950274113636165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: win-lose (1)_35
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 774
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe733030de384240800000000000000
+      internalID: 4776136468709211888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: win-lose (1)_36
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 767
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff1d05c535269f20800000000000000
+      internalID: 3428969079158677488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: win-lose (1)_37
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 760
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de442dbd44700ef10800000000000000
+      internalID: 2296843802286114029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: win-lose (1)_38
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 729
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1db33f33752a40b0800000000000000
+      internalID: -5743737197845824227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: win-lose (1)_39
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 750
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9633ea87162f33a10800000000000000
+      internalID: 1888119169248801641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: win-lose (1)_40
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 768
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3b5f529ce7c8ce0800000000000000
+      internalID: -1401605981628681220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: win-lose (1)_41
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 688
+        width: 134
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a1b31054004ccb0800000000000000
+      internalID: -4844747002770417050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: win-lose (1)_42
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 766
+        height: 749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a77d0a0a9eba03860800000000000000
+      internalID: 7507689598737241978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: win-lose (1)_43
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 703
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66c18ca3dece8d30800000000000000
+      internalID: 4435710091534124652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      win-lose (1)_0: -2142353539318865874
+      win-lose (1)_1: -6803768090551766048
+      win-lose (1)_10: 3579038539917872452
+      win-lose (1)_11: 7443685190732039574
+      win-lose (1)_12: 8082466991750462126
+      win-lose (1)_13: -7629930850495966142
+      win-lose (1)_14: -4121241208402791416
+      win-lose (1)_15: -5761027513260385184
+      win-lose (1)_16: -3076831879070118606
+      win-lose (1)_17: -2861312313236705729
+      win-lose (1)_18: 2842899898815649932
+      win-lose (1)_19: -5292951391914208611
+      win-lose (1)_2: -5848603508645300212
+      win-lose (1)_20: 6675111876430391240
+      win-lose (1)_21: 2203455810756127722
+      win-lose (1)_22: 3551630062095500651
+      win-lose (1)_23: 6555797653675740941
+      win-lose (1)_24: -3008696728160477153
+      win-lose (1)_25: -1744593315104836592
+      win-lose (1)_26: -6625278015341868904
+      win-lose (1)_27: 4339300500533964474
+      win-lose (1)_28: 7609182522802222282
+      win-lose (1)_29: 4901608918463890279
+      win-lose (1)_3: 7371934600804140739
+      win-lose (1)_30: -6977039792799498153
+      win-lose (1)_31: 1735149356213593462
+      win-lose (1)_32: 2038737123313726514
+      win-lose (1)_33: -7103546705715123737
+      win-lose (1)_34: -4556950274113636165
+      win-lose (1)_35: 4776136468709211888
+      win-lose (1)_36: 3428969079158677488
+      win-lose (1)_37: 2296843802286114029
+      win-lose (1)_38: -5743737197845824227
+      win-lose (1)_39: 1888119169248801641
+      win-lose (1)_4: -3366431878891401943
+      win-lose (1)_40: -1401605981628681220
+      win-lose (1)_41: -4844747002770417050
+      win-lose (1)_42: 7507689598737241978
+      win-lose (1)_43: 4435710091534124652
+      win-lose (1)_5: -7409986541491304515
+      win-lose (1)_6: 838329542648331901
+      win-lose (1)_7: -6805397993499532092
+      win-lose (1)_8: -5987782305412959965
+      win-lose (1)_9: -5244707361857239824
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
